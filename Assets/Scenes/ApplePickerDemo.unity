@@ -330,6 +330,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Apple Tree
       objectReference: {fileID: 0}
+    - target: {fileID: 6388059094837966676, guid: f951b9a167eca484a99601b5041e9bcf,
+        type: 3}
+      propertyPath: m_IsKinematic
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6388059094837966677, guid: f951b9a167eca484a99601b5041e9bcf,
         type: 3}
       propertyPath: m_LocalPosition.x
